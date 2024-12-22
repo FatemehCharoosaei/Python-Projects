@@ -1,0 +1,3 @@
+This is the first line. It contains two sentences. Quite simple, isn't it?
+The second line only has one sentence.
+Now, here's the third line. It has three sentences. What do you think about that?
